@@ -1,0 +1,342 @@
+body{
+  background-color: rgb(245, 240, 240);
+}
+
+.nav{
+    position: relative;
+    width: 500px;
+    height: 300px;
+ }
+
+ .head{
+    background-color: white;
+    width: 300%;
+    height: 35%;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .logo{
+    position: absolute;
+    top: 8.2%;
+    left: 32%;
+  }
+
+  .order{
+    position: absolute;
+    top: 9%;
+    left: 90%;
+    background-color: #00AC4E;
+    border-radius: 5px;
+    width: 23%;
+    height: 16%;
+    font-family: Comfortaa !important;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+  }
+
+  .header{
+    position: absolute;
+    top: 17%;
+    background-color: black;
+    height: 7%;
+    width: 98%;
+  }
+
+  .text{
+    color: white;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .text1{
+    position: absolute;
+    top: 98%;
+    left: 18%;
+    color: black;
+    font-family: Comfortaa !important;
+    line-height: 1.25em;
+    letter-spacing: 0.5px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.image{
+  display: flex;
+  flex-direction: row;
+}
+
+.choco-almond{
+  position: absolute;
+  top: 200%;
+  left: 51%;
+  width: 30%;
+  height: 10%;
+}
+
+.kesar-pista{
+  position: absolute;
+  top: 248%;
+  left: 51%;
+  width: 30%;
+  height: 10%;
+}
+
+.coconut{
+  position: absolute;
+  top: 200%;
+  left: 1.5%;
+  width: 30%;
+  height: 10%;
+}
+
+.strawberry{
+  position: absolute;
+  top: 248%;
+  left: 1.5%;
+  width: 30%;
+  height: 10%;
+}
+
+.best{
+  position: absolute;
+  top: 310%;
+  color: black;
+  text-transform: uppercase;
+  line-height: 1.25em;
+  letter-spacing: 0.5px;
+  font-size: 35px;
+  font-family: Comfortaa !important;
+  left: 42%;
+}
+
+.box1{
+  position: absolute;
+  top: 330%;
+  left: 10%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box2{
+  position: absolute;
+  top: 330%;
+  left: 30%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box3{
+  position: absolute;
+  top: 330%;
+  left: 50%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box4{
+  position: absolute;
+  top: 330%;
+  left: 70%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+
+.box5{
+  position: absolute;
+  top: 390%;
+  left: 10%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box6{
+  position: absolute;
+  top: 390%;
+  left: 30%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box7{
+  position: absolute;
+  top: 390%;
+  left: 50%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.box8{
+  position: absolute;
+  top: 390%;
+  left: 70%;
+  background-color: #fff;
+  height: 55%;
+  width: 18%;
+}
+
+.img1{
+  position: absolute;
+  top: 460%;
+  left: 10%;
+}
+
+.story{
+  position: absolute;
+  top: 540%;
+  left: 38%;
+  color: black;
+  font-size: 40px;
+  font-family: Comfortaa !important;
+}
+
+.fruit{
+  position: absolute;
+  top: 560%;
+  left: 20%;
+}
+
+.milk{
+  position: absolute;
+  top: 560%;
+  left: 49%;
+}
+
+.sugar{
+  position: absolute;
+  top: 560%;
+  left: 76%;
+}
+  
+.text2{
+  position: absolute;
+  top: 572%;
+  left: 17%;
+  font-family: Comfortaa !important;
+  font-size: 30px;
+}
+
+.text3{
+  position: absolute;
+  top: 572%;
+  left: 48%;
+  font-family: Comfortaa !important;
+  font-size: 30px;
+}
+
+.text4{
+  position: absolute;
+  top: 572%;
+  left: 74%;
+  font-family: Comfortaa !important;
+  font-size: 30px;
+}
+
+.text5{
+  position: absolute;
+  top: 582%;
+  left: 14%;
+  color: #7A7A7A;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Comfortaa !important;
+  --widgets-spacing: 20px 20px;
+}
+  
+.text6{
+  position: absolute;
+  top: 582%;
+  left: 43%;
+  color: #7A7A7A;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Comfortaa !important;
+  --widgets-spacing: 20px 20px;
+}
+
+.text7{
+  position: absolute;
+  top: 582%;
+  left: 73%;
+  color: #7A7A7A;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Comfortaa !important;
+  --widgets-spacing: 20px 20px;
+}
+
+.milk1{
+  position: absolute;
+  top: 600%;
+  height: 10%;
+  width: 10%;
+}
+
+.franchise{
+  position: absolute;
+  top: 640%;
+  left: 11%;
+  height: 10px;
+  width: 10px;
+}
+
+.follow{
+  position: absolute;
+  top: 690%;
+  left: 24%;
+  font-size: 35px;
+  line-height: 25px;
+  letter-spacing: 0.28px;
+  font-family: Comfortaa !important;
+  color: #292929 !important;
+  min-height: 1px;
+}
+
+.tutti{
+  position: absolute;
+  top: 720%;
+  left: 0.7%;
+  height: 10%;
+  width: 10%;
+}
+
+.rose{
+  position: absolute;
+  top: 720%;
+  left: 20.8%;
+  height: 10%;
+  width: 10%;
+}
+
+.nut{
+  position: absolute;
+  top: 720%;
+  left: 40.9%;
+  height: 10%;
+  width: 10%;
+}
+
+.kaju{
+  position: absolute;
+  top: 720%;
+  left: 61%;
+  height: 10%;
+  width: 10%;
+}
+
+.walnut{
+  position: absolute;
+  top: 720%;
+  left: 81%;
+  height: 10%;
+  width: 10%;
+}
